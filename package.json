@@ -10,7 +10,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "webpack-cli": "^3.1.2",
+    "webpack-cli": "^4.0.0",
     "snyk": "^1.316.1"
   },
   "devDependencies": {
